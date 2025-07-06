@@ -9,4 +9,15 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Adhitya Ram
+
+Module Name: Algorithm Analysis
+
+Learnings:
+In this module, I learned how to evaluate the performance of algorithms using time and space complexity.
+I understood the importance of Big O, Big Ω, and Big Θ notations for describing algorithm efficiency.
+The module helped me compare different algorithms based on their growth rates.
+I also learned how to analyze best, worst, and average case scenarios for various algorithms.
+
+
 
